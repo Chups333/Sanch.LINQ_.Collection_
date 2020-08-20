@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanch.LINQ_.Collection_", "Sanch.LINQ_.Collection_\Sanch.LINQ_.Collection_.csproj", "{B5EBBEFF-15D7-4DB9-B599-BD8676F0EAA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBBEFF-15D7-4DB9-B599-BD8676F0EAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBBEFF-15D7-4DB9-B599-BD8676F0EAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBBEFF-15D7-4DB9-B599-BD8676F0EAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBBEFF-15D7-4DB9-B599-BD8676F0EAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {511107E8-83FA-4420-9B5D-4CA7BF7C7F2C}
+	EndGlobalSection
+EndGlobal
